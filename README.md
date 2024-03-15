@@ -20,7 +20,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,autocad,cmake,discord,github,gmail,linkedin,linux,notion,ps,sublime,sketchup,ubuntu,vscode,windows,&perline=19" />
+    <img src="https://skillicons.dev/icons?i=git,vim,autocad,cmake,discord,github,gmail,linkedin,linux,notion,ps,sublime,sketchup,ubuntu,vscode,windows,&perline=16" />
     </a>
 </p>
 
