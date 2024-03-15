@@ -18,6 +18,14 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 </p>
 
 ## Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,autocad,cmake,discord,github,gmail,linkedin,linux,notion,ps,sublime,sketchup,ubuntu,vscode,windows" />
+  </a>
+</p>
+
+## Other
 <p align="center">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
     <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
