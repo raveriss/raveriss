@@ -1,8 +1,9 @@
-[![Github Folowers](https://img.shields.io/github/followers/raveriss?label=Followers&style=flat)](https://github.com/raveriss?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/raveriss?label=Followers&style=flat)](https://github.com/raveriss?tab=followers)
 [![Github Stars](https://img.shields.io/github/stars/raveriss?label=Stars&style=flat)](https://github.com/raveriss?tab=repositories)
 [![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=raveriss.raveriss)](https://github.com/raveriss)
-[![Linkedin](https://img.shields.io/badge/-rafael%20Verissimo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-verissimo)
-[![Mail](https://img.shields.io/badge/-ve@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:verissimo.r@gmail.com)
+
+[![Linkedin: rafael-verissimo](https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-verissimo-8b382b20b/)](https://www.linkedin.com/in/rafael-verissimo-8b382b20b/)
+[![Mail](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=gmail&logoColor=red&link=mailto:verissimo.r@gmail.com)](mailto:verissimo.r@gmail.com)
 
 
 ### 
