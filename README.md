@@ -21,7 +21,6 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 
 ## Tools
 <p align="center">
-    <a/>
         <img src="https://github.com/raveriss/skill-icons/blob/main/Microsoft_365.png?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/openoffice.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Notion-Dark.png?raw=true?raw=true" height="48" />
@@ -61,7 +60,6 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_gmail.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/LinkedIn.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png?raw=true?raw=true" height="48" />
-    </a>
 </p>
 
 ## Game
