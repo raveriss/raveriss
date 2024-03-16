@@ -66,11 +66,6 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png" height="48" />
 </p>
 
-## Game
-<p align="center">
-    <img src="https://github.com/raveriss/skill-icons/blob/main/icone_hocus.png" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/icone_nonogram.png" height="48" />
-</p>
 
 
 
