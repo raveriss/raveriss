@@ -1,3 +1,10 @@
+[![Github Folowers](https://img.shields.io/github/followers/raveriss?label=Followers&style=flat)](https://github.com/raveriss?tab=followers)
+[![Github Stars](https://img.shields.io/github/stars/raveriss?label=Stars&style=flat)](https://github.com/raveriss?tab=repositories)
+[![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=raveriss.raveriss)](https://github.com/raveriss)
+[![Linkedin](https://img.shields.io/badge/-rafael%20Verissimo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-verissimo)
+[![Mail](https://img.shields.io/badge/-ve@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:verissimo.r@gmail.com)
+
+
 ### 
 <h1 align="center">Hi there 👋, I'm Rafael</h1>
 
