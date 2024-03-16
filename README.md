@@ -5,14 +5,9 @@
   <a href="https://github.com/raveriss?tab=repositories">
     <img src="https://img.shields.io/github/stars/raveriss?style=flat" alt="Github Stars"/>
   </a>
-  <img src="https://img.shields.io/badge/Visits-Counter-blue" alt="Visits Counter"/>
-  <a href="https://www.linkedin.com/in/rafael-verissimo-8b382b20b/">
-    <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?logo=Linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
-  <a href="mailto:verissimo.r@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-gray?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=raveriss&color=blue&style=flat" alt="profile views" />
 </p>
+
 
 
 
