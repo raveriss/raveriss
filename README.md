@@ -66,6 +66,11 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png" height="48" />
 </p>
 
+## Stats
+
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=raveriss&color=32302F&style=for-the-badge" alt="profile views" />
+</p>
 
 
 
