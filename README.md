@@ -24,6 +24,28 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
     </a>
 </p>
 
+## Tools PLUS
+<p align="center">
+    <img src="https://github.com/raveriss/skill-icons/blob/main/Microsoft_365.png?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/brave.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/canva.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/chatgpt.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/codecademy.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/copilot.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/duolingo.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/firefox.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/inkscape.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/openclassroom.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/openoffice.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/perplexity.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/revit.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/sololearn.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/whatsapp.png?raw=true?raw=true" height="48" />
+</p>
+
 ## Other
 <p align="center">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
