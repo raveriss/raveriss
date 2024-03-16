@@ -12,7 +12,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 
 ## Languages
 <p align="center">
-    <img src="https://github.com/raveriss/skill-icons/blob/main/C.png?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/C.png?raw=false" height="48" />
     <img src="https://github.com/raveriss/skill-icons/blob/main/CPP.png?raw=true?raw=true" height="48" />
     <img src="https://github.com/raveriss/skill-icons/blob/main/JavaScript.png?raw=true?raw=true" height="48" />
     <img src="https://github.com/raveriss/skill-icons/blob/main/HTML.png?raw=true?raw=true" height="48" />
