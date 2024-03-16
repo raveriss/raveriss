@@ -1,12 +1,19 @@
 <p align="center">
+  <!-- Badges GitHub Followers et Stars -->
   <a href="https://github.com/raveriss?tab=followers">
     <img src="https://img.shields.io/github/followers/raveriss?style=flat" alt="Github Followers"/>
   </a>
   <a href="https://github.com/raveriss?tab=repositories">
     <img src="https://img.shields.io/github/stars/raveriss?style=flat" alt="Github Stars"/>
   </a>
+  <!-- Badge Visites avec style cohérent -->
   <img src="https://komarev.com/ghpvc/?username=raveriss&color=blue&style=flat" alt="profile views" />
+  <!-- Badge Email personnalisé avec shields.io -->
+  <a href="mailto:verissimo.r@gmail.com">
+    <img src="https://img.shields.io/badge/-verissimo.r%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 
 
