@@ -12,60 +12,60 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 
 ## Languages
 <p align="center">
-    <img src="https://github.com/raveriss/skill-icons/blob/main/C.png?raw=false" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/CPP.png?raw=true?raw=true" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/JavaScript.png?raw=true?raw=true" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/HTML.png?raw=true?raw=true" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/CSS.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/C.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/CPP.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/JavaScript.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/HTML.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/CSS.png" height="48" />
 </p>
 
 ## Tools
 <p align="center">
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Microsoft_365.png?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/openoffice.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Notion-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/brave.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/firefox.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_crome.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/chatgpt.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/copilot.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/perplexity.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/codecademy.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/openclassroom.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/duolingo.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/sololearn.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_audacity.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_simple_screen_recorder.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/inkscape.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/canva.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Photoshop.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/revit.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/AutoCAD-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Sketchup-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Bash-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/CMake-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Ubuntu-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Windows-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Sublime-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/VIM-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/VSCode-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/whatsapp.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Discord.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/messenger-icon.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_git.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Github-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_gmail.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/LinkedIn.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png?raw=true?raw=true" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Microsoft_365.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/openoffice.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Notion-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/brave.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/firefox.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_crome.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/chatgpt.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/copilot.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/perplexity.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/mistral.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/codecademy.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/openclassroom.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/duolingo.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/sololearn.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_audacity.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_simple_screen_recorder.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/gimp.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/inkscape.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/canva.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Photoshop.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/revit.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/AutoCAD-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Sketchup-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Bash-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/CMake-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Ubuntu-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Windows-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Sublime-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/VIM-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/VSCode-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/whatsapp.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Discord.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/messenger-icon.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_git.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/Github-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_gmail.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/LinkedIn.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png" height="48" />
 </p>
 
 ## Game
 <p align="center">
-    <img src="https://github.com/raveriss/skill-icons/blob/main/icone_hocus.png?raw=true?raw=true" height="48" />
-    <img src="https://github.com/raveriss/skill-icons/blob/main/icone_nonogram.png?raw=true?raw=true" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/icone_hocus.png" height="48" />
+    <img src="https://github.com/raveriss/skill-icons/blob/main/icone_nonogram.png" height="48" />
 </p>
 
 
