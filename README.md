@@ -56,9 +56,9 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/whatsapp.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Discord.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/messenger-icon.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Git.png?raw=true?raw=true" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_git.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Github-Dark.png?raw=true?raw=true" height="48" />
-        <img src="https://github.com/raveriss/skill-icons/blob/main/Gmail-Dark.png?raw=true?raw=true" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/icone_gmail.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/LinkedIn.png?raw=true?raw=true" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png?raw=true?raw=true" height="48" />
     </a>
