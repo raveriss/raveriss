@@ -72,5 +72,15 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
   <img align="center" src="https://komarev.com/ghpvc/?username=raveriss&color=32302F&style=for-the-badge" alt="profile views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+
+
+
+
 
 
