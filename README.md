@@ -14,14 +14,6 @@
   </a>
 </p>
 
-
-
-
-
-
-
-
-
 ### 
 <h1 align="center">Hi there 👋, I'm Rafael</h1>
 
@@ -91,10 +83,6 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 </p>
 
 ## Stats
-
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=raveriss&color=32302F&style=for-the-badge" alt="profile views" />
-</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
