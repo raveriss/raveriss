@@ -1,22 +1,21 @@
 <p align="center">
-  <!-- Badges GitHub -->
   <a href="https://github.com/raveriss?tab=followers">
-    <img src="https://img.shields.io/github/followers/raveriss?label=Followers&style=flat" alt="Github Followers"/>
+    <img src="https://img.shields.io/github/followers/raveriss?style=flat" alt="Github Followers"/>
   </a>
   <a href="https://github.com/raveriss?tab=repositories">
-    <img src="https://img.shields.io/github/stars/raveriss?label=Stars&style=flat" alt="Github Stars"/>
+    <img src="https://img.shields.io/github/stars/raveriss?style=flat" alt="Github Stars"/>
   </a>
-  <!-- Badge Visites avec alternative si le service glitch.me est en panne -->
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visits&query=%24.count&url=https://api.countapi.xyz/hit/raveriss/raveriss&style=flat" alt="Visits Counter"/>
-  <!-- Badge LinkedIn -->
+  <img src="https://img.shields.io/badge/Visits-Counter-blue" alt="Visits Counter"/>
   <a href="https://www.linkedin.com/in/rafael-verissimo-8b382b20b/">
-    <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?logo=Linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  <!-- Affichage de l'email -->
-  <span style="margin-left: 8px; font-size: 1.1em;">
-    📧<a href="mailto:verissimo.r@gmail.com">verissimo.r@gmail.com</a>
-  </span>
+  <a href="mailto:verissimo.r@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-gray?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+
+
 
 
 
