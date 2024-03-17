@@ -1,3 +1,6 @@
+### 
+<h1 align="center">Hi there 👋, I'm Rafael</h1>
+
 <p align="center">
   <!-- Badges GitHub Followers et Stars -->
   <a href="https://github.com/raveriss?tab=followers">
@@ -16,10 +19,6 @@
     <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/>
   </a>
 </p>
-
-
-### 
-<h1 align="center">Hi there 👋, I'm Rafael</h1>
 
 <div style="text-align: justify; color: #555;">
 
