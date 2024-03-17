@@ -10,9 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=raveriss&color=blue&style=flat" alt="profile views" />
   <!-- Badge Email personnalisé avec shields.io -->
   <a href="mailto:verissimo.r@gmail.com">
-    <img src="https://img.shields.io/badge/-verissimo.r%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/static/v1?label=&message=verissimo.r%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>
 </p>
+
 
 ### 
 <h1 align="center">Hi there 👋, I'm Rafael</h1>
