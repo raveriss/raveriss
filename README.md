@@ -12,6 +12,9 @@
   <a href="mailto:verissimo.r@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=verissimo.r%40gmail.com&color=blue&logo=gmail&logoColor=red&style=flat&labelColor=grey" alt="Email"/>
   </a>
+    <a href="https://www.linkedin.com/in/rafael-verissimo-8b382b20b/">
+    <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=blue&style=flat&labelColor=grey" alt="LinkedIn"/>
+  </a>
 </p>
 
 
