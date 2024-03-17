@@ -94,10 +94,12 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
   <!-- <a href="https://github.com/raveriss">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raveriss&theme=github" alt="Rafael's Contribution Graph" />
   </a> -->
-  <a href="https://github.com/raveriss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
-  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/raveriss">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveriss&layout=compact&theme=tokyonight" />
+  </a>
 
 
 
