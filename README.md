@@ -1,6 +1,7 @@
 ### 
 <h1 align="center">Hi there 👋, I'm Rafael</h1>
 
+###
 <p align="center">
   <!-- Badges GitHub Followers et Stars -->
   <a href="https://github.com/raveriss?tab=followers">
@@ -18,9 +19,10 @@
     <a href="https://www.linkedin.com/in/rafael-verissimo-8b382b20b/">
     <img src="https://img.shields.io/badge/-Rafael%20Verissimo-blue?style=flat&logo=linkedin&logoColor=white&style=flat&labelColor=grey" alt="LinkedIn"/>
   </a>
+  <div style="text-align: justify; color: #555;">
 </p>
 
-<div style="text-align: justify; color: #555;">
+###
 
 I joined [École 42](https://42.fr/en/homepage/) with the aim of obtaining the title of Expert in Computer Architecture, a level 7 certification recognized in the National Directory of Professional Certifications (RNCP). To find out more about this certification, click [here](https://www.francecompetences.fr/recherche/rncp/36137/).
 
