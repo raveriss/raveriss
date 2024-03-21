@@ -70,6 +70,7 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/rhinoceros.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/AutoCAD-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Sketchup-Dark.png" height="48" />
+        <img src="https://github.com/raveriss/skill-icons/blob/main/kerkythea.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Bash-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/CMake-Dark.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/Ubuntu-Dark.png" height="48" />
