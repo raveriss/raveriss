@@ -87,8 +87,9 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_gmail.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/LinkedIn.png" height="48" />
         <img src="https://github.com/raveriss/skill-icons/blob/main/icone_drive.png" height="48" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" height="48" />
-  
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="48" />
 </p>
 
 ## Stats
