@@ -82,9 +82,9 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
 <p align="center">
   <a href="https://github.com/raveriss">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=raveriss&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" />
-  <a href="https://github.com/raveriss">
+<!--   <a href="https://github.com/raveriss">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raveriss&theme=tokyonight" alt="Rafael's GitHub Streak" />
-  </a>
+  </a> -->
   <!-- La carte de graphique de contributions pourrait être temporairement enlevée si elle ne s'affiche pas correctement -->
   <!-- <a href="https://github.com/raveriss">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=raveriss&theme=github" alt="Rafael's Contribution Graph" />
