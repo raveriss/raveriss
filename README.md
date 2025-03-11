@@ -21,7 +21,8 @@
 
 ###
 
-I joined [École 42](https://42.fr/en/homepage/) with the aim of obtaining the title of Expert in Computer Architecture, a level 7 certification recognized in the National Directory of Professional Certifications (RNCP). To find out more about this certification, click [here](https://www.francecompetences.fr/recherche/rncp/36137/).
+<div align="justify">
+I joined École 42 with the aim of obtaining the title of Expert in Computer Architecture, a level 7 certification recognized in the National Directory of Professional Certifications (RNCP). To find out more about this certification, click here.
 
 Through my journey, I have developed a deep conviction: digital technologies and innovations can play a crucial role in improving many aspects of our lives, such as health, housing, food, education, and the community fabric. I therefore strive to master as many IT skills as possible to create innovative tools that meet these challenges.
 
