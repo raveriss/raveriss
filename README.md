@@ -71,7 +71,10 @@ Today, I am looking for opportunities to leverage my skills and passion to contr
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="48" />
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="48" />
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="48" />
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="48" />
 </p>
 
 ## Stats
